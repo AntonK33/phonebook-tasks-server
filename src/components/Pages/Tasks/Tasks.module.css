@@ -1,0 +1,13 @@
+ul{
+    list-style: none;
+}
+.task_box{
+    display: flex;
+    margin: 15px;
+}
+.checkbox{
+    margin-right: 10px;
+}
+.task_p{
+    margin-right: 10px;
+}

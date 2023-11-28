@@ -1,0 +1,11 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.label_form{
+    margin-bottom: 15px;
+}
+.addBtn{
+    max-width: 150px;
+}
